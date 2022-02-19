@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/group-fyn/static/css/main.3dc2a363.chunk.css",
-    "main.js": "/group-fyn/static/js/main.472f98c7.chunk.js",
-    "main.js.map": "/group-fyn/static/js/main.472f98c7.chunk.js.map",
-    "runtime-main.js": "/group-fyn/static/js/runtime-main.9b2a14a2.js",
-    "runtime-main.js.map": "/group-fyn/static/js/runtime-main.9b2a14a2.js.map",
+    "main.js": "/group-fyn/static/js/main.ef554899.chunk.js",
+    "main.js.map": "/group-fyn/static/js/main.ef554899.chunk.js.map",
+    "runtime-main.js": "/group-fyn/static/js/runtime-main.c0858de4.js",
+    "runtime-main.js.map": "/group-fyn/static/js/runtime-main.c0858de4.js.map",
     "static/css/2.d6008dad.chunk.css": "/group-fyn/static/css/2.d6008dad.chunk.css",
-    "static/js/2.fdeb4f40.chunk.js": "/group-fyn/static/js/2.fdeb4f40.chunk.js",
-    "static/js/2.fdeb4f40.chunk.js.map": "/group-fyn/static/js/2.fdeb4f40.chunk.js.map",
+    "static/js/2.06c4cdac.chunk.js": "/group-fyn/static/js/2.06c4cdac.chunk.js",
+    "static/js/2.06c4cdac.chunk.js.map": "/group-fyn/static/js/2.06c4cdac.chunk.js.map",
+    "static/js/3.b136109d.chunk.js": "/group-fyn/static/js/3.b136109d.chunk.js",
+    "static/js/3.b136109d.chunk.js.map": "/group-fyn/static/js/3.b136109d.chunk.js.map",
     "index.html": "/group-fyn/index.html",
     "static/css/2.d6008dad.chunk.css.map": "/group-fyn/static/css/2.d6008dad.chunk.css.map",
     "static/css/main.3dc2a363.chunk.css.map": "/group-fyn/static/css/main.3dc2a363.chunk.css.map",
-    "static/js/2.fdeb4f40.chunk.js.LICENSE.txt": "/group-fyn/static/js/2.fdeb4f40.chunk.js.LICENSE.txt",
+    "static/js/2.06c4cdac.chunk.js.LICENSE.txt": "/group-fyn/static/js/2.06c4cdac.chunk.js.LICENSE.txt",
     "static/media/theme-0d28f647.css": "/group-fyn/static/media/eeb9224f85430652fd070e4e64129aa4.4b728baa.eot",
     "static/media/1-macedoine-de-legumes-large.jpg": "/group-fyn/static/media/1-macedoine-de-legumes-large.f74d843c.jpg",
     "static/media/1-macedoine-de-legumes.jpg": "/group-fyn/static/media/1-macedoine-de-legumes.5039bd46.jpg",
@@ -54,10 +56,10 @@
     "static/media/mug-the-adventure-begins.jpg": "/group-fyn/static/media/mug-the-adventure-begins.d8e2c18a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b2a14a2.js",
+    "static/js/runtime-main.c0858de4.js",
     "static/css/2.d6008dad.chunk.css",
-    "static/js/2.fdeb4f40.chunk.js",
+    "static/js/2.06c4cdac.chunk.js",
     "static/css/main.3dc2a363.chunk.css",
-    "static/js/main.472f98c7.chunk.js"
+    "static/js/main.ef554899.chunk.js"
   ]
 }
